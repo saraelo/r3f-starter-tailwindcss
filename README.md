@@ -7,13 +7,13 @@ This repository serves as a starter for react-three-fiber (r3f) with Tailwind CS
 Ensure you have the following installed before proceeding:
 
 - Node.js (version 12.x or higher recommended)
-- Yarn package manager
+- NPM package manager
 
 Check your installations by running:
 
 ```
 node --version
-yarn --version
+npm --version
 ```
 
 ## Setting Up
@@ -32,10 +32,10 @@ git clone https://github.com/saraelo/r3f-starter.git
 cd r3f-starter
 ```
 
-3. Install the dependencies using Yarn:
+3. Install the dependencies using npm:
 
 ```
-yarn install
+npm install
 ```
 
 ## Development
@@ -43,7 +43,7 @@ yarn install
 To start the development server, run:
 
 ```
-yarn dev
+npm dev
 ```
 
 This will spin up the server, typically accessible at `http://localhost:5173`
@@ -53,7 +53,7 @@ This will spin up the server, typically accessible at `http://localhost:5173`
 When you're ready to build your project for production, run:
 
 ```
-yarn build
+npm build
 ```
 
 This will compile your project to the `build` directory, optimized for the best performance.
