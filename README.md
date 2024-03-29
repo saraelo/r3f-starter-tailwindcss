@@ -43,7 +43,7 @@ npm install
 To start the development server, run:
 
 ```
-npm dev
+npm run dev
 ```
 
 This will spin up the server, typically accessible at `http://localhost:5173`
