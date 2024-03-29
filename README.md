@@ -29,7 +29,7 @@ git clone https://github.com/saraelo/r3f-starter.git
 2. Navigate to the repository folder:
 
 ```
-cd r3f-starter
+cd r3f-starter-tailwindcss
 ```
 
 3. Install the dependencies using npm:
